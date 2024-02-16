@@ -3,6 +3,20 @@ h1 {
     text-align: center;
 }
 h2{
-    color: aqua;
+    color: black;
     text-align: center;
+    font-family: sans-serif;
+}
+nav {
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+li{
+    color: black;
+}
+link{color: blue;
+
+}
+body {
+    background-color: skyblue
 }
